@@ -15,7 +15,7 @@
     "axios": "^0.18.1",
     "bootstrap": "^4.3.1",
     "dotenv": "^8.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-loader": "^0.10.1",
     "fixed-data-table": "^0.6.3",
     "fixed-data-table-2": "^0.8.26",
